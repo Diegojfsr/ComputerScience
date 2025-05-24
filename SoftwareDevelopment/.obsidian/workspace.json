@@ -11,10 +11,14 @@
             "id": "bdc58b25e8b272c7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Software Development/01.Software Development - Introduction, SDLC, Roadmap, Courses.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "01.Software Development - Introduction, SDLC, Roadmap, Courses"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00.Software Development/01.Software Development - Introduction, SDLC, Roadmap, Courses.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 01.Software Development - Introduction, SDLC, Roadmap, Courses"
             }
           },
           {
@@ -163,6 +168,8 @@
   },
   "active": "1b02efb55613b8a3",
   "lastOpenFiles": [
+    "01.Introdução ao Desenvolvimento de Software/01.O que é desenvolvimento de software.md",
+    "00.Software Development/01.Software Development - Introduction, SDLC, Roadmap, Courses.md",
     "17.Projetos de Desenvolvimento de Software/01.Projeto de Sistema de Gestão de Bibliotecas  Desenvolvimento de Software.md",
     "17.Projetos de Desenvolvimento de Software/02.Projeto de Previsão do Tempo  Desenvolvimento de Software.md",
     "16.Preparação para Entrevista Desenvolvimento de Software/01.Principais tópicos de desenvolvimento de software para se preparar para a entrevista.md",
@@ -192,8 +199,6 @@
     "12.Diferenças no desenvolvimento de software/13.Diferença entre Agile e DevOps.md",
     "12.Diferenças no desenvolvimento de software/12.Existe alguma diferença entre desenvolvedor de software e engenheiro de software.md",
     "12.Diferenças no desenvolvimento de software/11.Diferença entre Agile e SDLC.md",
-    "12.Diferenças no desenvolvimento de software/10.Diferença entre testes ágeis e scrum.md",
-    "12.Diferenças no desenvolvimento de software/09.Diferença entre desenvolvedor de software e designer de software.md",
     "12.Diferenças no desenvolvimento de software",
     "11.Posições envolvidas no desenvolvimento de software",
     "10.Desenvolvimento de software mitos vs realidade",

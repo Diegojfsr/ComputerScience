@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f31d399d5d701e26",
+        "id": "42d35c2b29a9121a",
         "type": "tabs",
         "children": [
           {
-            "id": "fada9517a02ffeda",
+            "id": "5cc63a6753106441",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Software Testing Tutorial/01.Software Testing Tutorial.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "01.Software Testing Tutorial"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00.Software Testing Tutorial/01.Software Testing Tutorial.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 01.Software Testing Tutorial"
             }
           },
           {
@@ -161,43 +166,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fada9517a02ffeda",
+  "active": "5cc63a6753106441",
   "lastOpenFiles": [
-    "5.Git and GitHub/1.Create a Repository on GitHub.md",
-    "Sem título.md",
-    "4.Git Commands/1.Useful Git Commands and Basic Concepts.md",
-    "4.Git Commands/67.How to Remove Local Untracked Files From Current Git Working Tree.md",
-    "4.Git Commands/66.How to Use Git Log to Format the Commit History.md",
-    "4.Git Commands/65.Git – Difference Between Merging and Rebasing.md",
-    "4.Git Commands/64.Difference Between Git remote prune, Git prune, on and Git fetch –prune.md",
-    "4.Git Commands/63.Difference Between Git Push Origin and Git Push Origin Master.md",
-    "4.Git Commands/62.How to Add an Empty Directory to a Git Repository.md",
-    "4.Git Commands/61.How to Push Git Branch to Remote.md",
-    "4.Git Commands/60.Delete a Git Branch Locally and Remotely.md",
-    "4.Git Commands/59.Error Searching and Handling in Git.md",
-    "4.Git Commands/58.Sync your fork with a master in GitHub.md",
-    "4.Git Commands/57.Shallow Clone on Git Linux.md",
-    "4.Git Commands/56.Git - Changing History.md",
-    "4.Git Commands/55.Git – Working Tree.md",
-    "4.Git Commands/54.Git – git-show Command Line Utility.md",
-    "4.Git Commands/53.Git - Cherry Pick.md",
-    "4.Git Commands/52.Git – Filtering the Commit History.md",
-    "4.Git Commands/51.Git Subtree.md",
-    "4.Git Commands/50.Git Hooks.md",
-    "4.Git Commands/49.Git Tags.md",
-    "4.Git Commands/48.Recovering Lost Commits in Git.md",
-    "4.Git Commands/47.Git Merge and Merge Conflicts.md",
-    "4.Git Commands/46.Git Checkout and Merge.md",
-    "4.Git Commands/45.Git Prune.md",
-    "11.Git Advanced",
-    "10.Git Collaborating",
-    "9.Git and GitHub Deployment",
-    "8.Git and GitHub in Pycharm",
-    "7.Git and GitHub in Android Studio",
-    "6.Git and GitHub in VS Code",
-    "5.Git and GitHub",
-    "4.Git Commands",
-    "3.Git Installation",
-    "2.Git Basics"
+    "14.Perguntas da entrevista de teste de software/05.Principais perguntas da entrevista ágil.md",
+    "14.Perguntas da entrevista de teste de software/04.As 50 principais perguntas da entrevista de teste de API.md",
+    "14.Perguntas da entrevista de teste de software/03.As 50 principais perguntas e respostas da entrevista de teste manual.md",
+    "14.Perguntas da entrevista de teste de software/02.As 50 principais perguntas da entrevista de teste de automação.md",
+    "14.Perguntas da entrevista de teste de software/01.Perguntas da entrevista de teste de software.md",
+    "14.Perguntas da entrevista de teste de software",
+    "13.Diferenças no teste de software/29.Teste de aplicativos de servidor vs teste de aplicativos da Web.md",
+    "13.Diferenças no teste de software/28.Teste de aplicativos de desktop versus teste de cliente.md",
+    "13.Diferenças no teste de software/27.SDET vs Testador.md",
+    "13.Diferenças no teste de software/26.Teste de GUI vs Teste de Usabilidade.md",
+    "13.Diferenças no teste de software/25.Teste de software x teste incorporado.md",
+    "13.Diferenças no teste de software/24.Teste de componentes x teste de unidade.md",
+    "13.Diferenças no teste de software/23.Esboços vs Drivers.md",
+    "13.Diferenças no teste de software/22.Teste de macaco vs teste de gorila.md",
+    "13.Diferenças no teste de software/21.Caso de uso x caso de teste.md",
+    "13.Diferenças no teste de software/20.Teste Positivo vs Teste Negativo.md",
+    "13.Diferenças no teste de software/19.BRS vs SRS.md",
+    "13.Diferenças no teste de software/18.Design de alto nível (HLD) e design de baixo nível (LLD).md",
+    "13.Diferenças no teste de software/17.Teste de front-end vs teste de back-end.md",
+    "13.Diferenças no teste de software/16.Teste x Depuração.md",
+    "13.Diferenças no teste de software/15.Bug vs Defeito vs Erro vs Falha vs Falha.md",
+    "13.Diferenças no teste de software/14.SDLC vs STLC.md",
+    "13.Diferenças no teste de software/13.Análise de valor de limite vs particionamento de equivalência.md",
+    "13.Diferenças no teste de software/12.Plano de teste vs estratégia de teste.md",
+    "13.Diferenças no teste de software/11.Caso de teste vs cenários de teste.md",
+    "13.Diferenças no teste de software/10.Teste de globalização vs teste de localização.md",
+    "13.Diferenças no teste de software/09.Teste de caixa preta vs caixa branca vs caixa cinza.md",
+    "13.Diferenças no teste de software",
+    "12.Ferramentas de Teste de Software",
+    "11.Outros tipos de testes",
+    "10.Ferramentas de teste de software",
+    "09.Metodologia Ágil",
+    "08.Gerenciamento de defeitos (rastreamento de bugs)",
+    "07.Gerenciamento e controle de casos de teste",
+    "06.Técnicas de teste de software",
+    "05.Desenvolvimento de Casos de Teste"
   ]
 }
