@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f31d399d5d701e26",
+        "id": "b30324f91a735335",
         "type": "tabs",
         "children": [
           {
-            "id": "fada9517a02ffeda",
+            "id": "fc9370022a47e187",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Operating System Tutorial/01.Operating System Tutorial.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "01.Operating System Tutorial"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00.Operating System Tutorial/01.Operating System Tutorial.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 01.Operating System Tutorial"
             }
           },
           {
@@ -161,43 +166,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fada9517a02ffeda",
+  "active": "fc9370022a47e187",
   "lastOpenFiles": [
-    "5.Git and GitHub/1.Create a Repository on GitHub.md",
-    "Sem título.md",
-    "4.Git Commands/1.Useful Git Commands and Basic Concepts.md",
-    "4.Git Commands/67.How to Remove Local Untracked Files From Current Git Working Tree.md",
-    "4.Git Commands/66.How to Use Git Log to Format the Commit History.md",
-    "4.Git Commands/65.Git – Difference Between Merging and Rebasing.md",
-    "4.Git Commands/64.Difference Between Git remote prune, Git prune, on and Git fetch –prune.md",
-    "4.Git Commands/63.Difference Between Git Push Origin and Git Push Origin Master.md",
-    "4.Git Commands/62.How to Add an Empty Directory to a Git Repository.md",
-    "4.Git Commands/61.How to Push Git Branch to Remote.md",
-    "4.Git Commands/60.Delete a Git Branch Locally and Remotely.md",
-    "4.Git Commands/59.Error Searching and Handling in Git.md",
-    "4.Git Commands/58.Sync your fork with a master in GitHub.md",
-    "4.Git Commands/57.Shallow Clone on Git Linux.md",
-    "4.Git Commands/56.Git - Changing History.md",
-    "4.Git Commands/55.Git – Working Tree.md",
-    "4.Git Commands/54.Git – git-show Command Line Utility.md",
-    "4.Git Commands/53.Git - Cherry Pick.md",
-    "4.Git Commands/52.Git – Filtering the Commit History.md",
-    "4.Git Commands/51.Git Subtree.md",
-    "4.Git Commands/50.Git Hooks.md",
-    "4.Git Commands/49.Git Tags.md",
-    "4.Git Commands/48.Recovering Lost Commits in Git.md",
-    "4.Git Commands/47.Git Merge and Merge Conflicts.md",
-    "4.Git Commands/46.Git Checkout and Merge.md",
-    "4.Git Commands/45.Git Prune.md",
-    "11.Git Advanced",
-    "10.Git Collaborating",
-    "9.Git and GitHub Deployment",
-    "8.Git and GitHub in Pycharm",
-    "7.Git and GitHub in Android Studio",
-    "6.Git and GitHub in VS Code",
-    "5.Git and GitHub",
-    "4.Git Commands",
-    "3.Git Installation",
-    "2.Git Basics"
+    "10.Funções do sistema operacional/06.Contabilidade de trabalho.md",
+    "10.Funções do sistema operacional/05.Detecção de erros.md",
+    "10.Funções do sistema operacional/04.Gerenciamento de arquivos.md",
+    "10.Funções do sistema operacional/03.Gerenciamento de segurança.md",
+    "10.Funções do sistema operacional/02.Gerenciamento de rede.md",
+    "10.Funções do sistema operacional/01.Gerenciamento de memória e processador.md",
+    "10.Funções do sistema operacional",
+    "09.Tipos de sistema operacional/05.SO distribuído (por exemplo, LOCUS, Solaris, etc.).md",
+    "09.Tipos de sistema operacional/04.SO em tempo real (por exemplo, PSOS, VRTX, etc.).md",
+    "09.Tipos de sistema operacional/03.Sistema operacional de compartilhamento de tempo (por exemplo, Multics, Linux, etc.).md",
+    "09.Tipos de sistema operacional/02.SO multiprogramado (por exemplo, Windows, UNIX, macOS, etc.).md",
+    "09.Tipos de sistema operacional/01.Batch OS (por exemplo, Processo de Transações, Sistema de Folha de Pagamento, etc.).md",
+    "09.Tipos de sistema operacional",
+    "08.Misc/14.Operações de modo duplo no sistema operacional.md",
+    "08.Misc/13.Obter-definir limites de recursos de processo em C.md",
+    "08.Misc/12.Kernel monolítico e principais diferenças do Microkernel.md",
+    "08.Misc/11.Tarefas em sistemas de tempo real.md",
+    "08.Misc/10.Sistemas em tempo real.md",
+    "08.Misc/09.indepth e maxdepth no comando find() do Linux para limitar a pesquisa a um diretório específico..md",
+    "08.Misc/08.crontab no Linux com exemplos.md",
+    "08.Misc/07.Introdução ao Linux Shell e Shell Scripting.md",
+    "08.Misc/06.Estados de processo e transições em um processo UNIX.md",
+    "08.Misc/05.Comandos importantes do Linux (leave, diff, cal, ncal, locate e ln).md",
+    "08.Misc/04.Subsistema de E-S do kernel (sistema de E-S).md",
+    "08.Misc/03.Micronúcleo.md",
+    "08.Misc/02.Introdução ao sistema UNIX.md",
+    "08.Misc/01.Memória do computador.md",
+    "07.Gerenciamento de disco/14.Gerenciamento de espaço livre.md",
+    "08.Misc",
+    "07.Gerenciamento de disco",
+    "06.Gerenciamento de memória",
+    "05.Multithread",
+    "04.Deadlock",
+    "03.Sincronização de processos",
+    "02.Process Scheduling",
+    "01.Básico"
   ]
 }
