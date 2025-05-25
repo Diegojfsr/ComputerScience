@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "a8017cc2ee0e9476",
+    "type": "split",
+    "children": [
+      {
+        "id": "95fef5d35d52e3d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8acee01b141ac8a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Computer Network Tutorial/01.Computer Network Tutorial.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01.Computer Network Tutorial"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95edef668b657176",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd926b8554709dde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b02efb55613b8a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "fcf5211b07f910d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "2546ad1fa6d4380f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "right": {
+    "id": "1b77f82fc4207f64",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed9588303afd4cca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a29bd78191eb249e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00.Computer Network Tutorial/01.Computer Network Tutorial.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 01.Computer Network Tutorial"
+            }
+          },
+          {
+            "id": "dbe9e1e4c0cb097a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React Hooks/1️⃣ Fundamentos dos Hooks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 1️⃣ Fundamentos dos Hooks"
+            }
+          },
+          {
+            "id": "433c1db50f655ade",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "8683bbb36e1857f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "8acee01b141ac8a7",
+  "lastOpenFiles": [
+    "17.Emerging Networking Trends/01.5G and Beyond.md",
+    "17.Emerging Networking Trends/02.Network Slicing in 5G.md",
+    "16.Cloud Networking/03.Network Function Virtualization (NFV).md",
+    "17.Emerging Networking Trends",
+    "16.Cloud Networking/02.Virtual Private Network.md",
+    "16.Cloud Networking/01.Types of Cloud Services.md",
+    "15.Rede sem fio e móvel/03.Mobile Networks.md",
+    "16.Cloud Networking",
+    "15.Rede sem fio e móvel/02.Bluetooth & Zigbee.md",
+    "15.Rede sem fio e móvel/01.Wi-Fi Standards.md",
+    "15.Rede sem fio e móvel",
+    "14.QoS (Quality of Service)/05.Leaky Bucket.md",
+    "14.QoS (Quality of Service)/04.Token Bucket.md",
+    "14.QoS (Quality of Service)/03.Controle de Congestionamento em Redes de Computadores.md",
+    "14.QoS (Quality of Service)/02.Técnicas para alcançar QoS.md",
+    "14.QoS (Quality of Service)/01.O que é QoS e Multimídia.md",
+    "14.QoS (Quality of Service)",
+    "13.Métodos de segurança de rede/04.Filtragem de endereço MAC.md",
+    "13.Métodos de segurança de rede/03.Firewalls.md",
+    "13.Métodos de segurança de rede/02.Encriptação.md",
+    "13.Métodos de segurança de rede/01.Autenticação.md",
+    "13.Métodos de segurança de rede",
+    "12.Protocolos da camada de aplicação/14.Bloco de mensagens do servidor (SMB).md",
+    "12.Protocolos da camada de aplicação/13.Protocolo de Iniciação de Sessão (SIP).md",
+    "12.Protocolos da camada de aplicação/12.MQTT (Transporte de Telemetria do Serviço de Enfileiramento de Mensagens).md",
+    "12.Protocolos da camada de aplicação/11.Protocolo de transferência de notícias de rede (NNTP).md",
+    "12.Protocolos da camada de aplicação/10.Protocolo de transferência de arquivos triviais (TFTP).md",
+    "12.Protocolos da camada de aplicação/09.Protocolo de tempo de rede (NTP).md",
+    "12.Protocolos da camada de aplicação/08.Protocolo de acesso ao diretório leve (LDAP).md",
+    "12.Protocolos da camada de aplicação/07.Protocolo de acesso a mensagens da Internet (IMAP).md",
+    "12.Protocolos da camada de aplicação/06.Protocolo de Correios v3 (POP3).md",
+    "12.Protocolos da camada de aplicação",
+    "11.Camada de aplicação",
+    "10.Camada de sessão e apresentação",
+    "09.Camada de Transporte",
+    "08.Protocolos da camada de rede"
+  ]
+}
