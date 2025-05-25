@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f31d399d5d701e26",
+        "id": "94771118d932ac8d",
         "type": "tabs",
         "children": [
           {
-            "id": "fada9517a02ffeda",
+            "id": "f4d1d195a858fa64",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.Engineering Mathematics Tutorials/01.Engineering Mathematics Tutorials.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "01.Engineering Mathematics Tutorials"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00.Engineering Mathematics Tutorials/01.Engineering Mathematics Tutorials.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 01.Engineering Mathematics Tutorials"
             }
           },
           {
@@ -161,43 +166,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fada9517a02ffeda",
+  "active": "f4d1d195a858fa64",
   "lastOpenFiles": [
-    "5.Git and GitHub/1.Create a Repository on GitHub.md",
-    "Sem título.md",
-    "4.Git Commands/1.Useful Git Commands and Basic Concepts.md",
-    "4.Git Commands/67.How to Remove Local Untracked Files From Current Git Working Tree.md",
-    "4.Git Commands/66.How to Use Git Log to Format the Commit History.md",
-    "4.Git Commands/65.Git – Difference Between Merging and Rebasing.md",
-    "4.Git Commands/64.Difference Between Git remote prune, Git prune, on and Git fetch –prune.md",
-    "4.Git Commands/63.Difference Between Git Push Origin and Git Push Origin Master.md",
-    "4.Git Commands/62.How to Add an Empty Directory to a Git Repository.md",
-    "4.Git Commands/61.How to Push Git Branch to Remote.md",
-    "4.Git Commands/60.Delete a Git Branch Locally and Remotely.md",
-    "4.Git Commands/59.Error Searching and Handling in Git.md",
-    "4.Git Commands/58.Sync your fork with a master in GitHub.md",
-    "4.Git Commands/57.Shallow Clone on Git Linux.md",
-    "4.Git Commands/56.Git - Changing History.md",
-    "4.Git Commands/55.Git – Working Tree.md",
-    "4.Git Commands/54.Git – git-show Command Line Utility.md",
-    "4.Git Commands/53.Git - Cherry Pick.md",
-    "4.Git Commands/52.Git – Filtering the Commit History.md",
-    "4.Git Commands/51.Git Subtree.md",
-    "4.Git Commands/50.Git Hooks.md",
-    "4.Git Commands/49.Git Tags.md",
-    "4.Git Commands/48.Recovering Lost Commits in Git.md",
-    "4.Git Commands/47.Git Merge and Merge Conflicts.md",
-    "4.Git Commands/46.Git Checkout and Merge.md",
-    "4.Git Commands/45.Git Prune.md",
-    "11.Git Advanced",
-    "10.Git Collaborating",
-    "9.Git and GitHub Deployment",
-    "8.Git and GitHub in Pycharm",
-    "7.Git and GitHub in Android Studio",
-    "6.Git and GitHub in VS Code",
-    "5.Git and GitHub",
-    "4.Git Commands",
-    "3.Git Installation",
-    "2.Git Basics"
+    "08.Estatística e Métodos Numéricos/15.Modelo de distribuição hipergeométrica.md",
+    "08.Estatística e Métodos Numéricos/14.Dados univariados, bivariados e multivariados e sua análise.md",
+    "08.Estatística e Métodos Numéricos/13.Escalas de Medição.md",
+    "08.Estatística e Métodos Numéricos/12.Matemática - Covariância e Correlação.md",
+    "08.Estatística e Métodos Numéricos/11.Processos de renovação em probabilidade.md",
+    "08.Estatística e Métodos Numéricos/10.Processos de Poisson não homogêneos.md",
+    "08.Estatística e Métodos Numéricos/09.Processo de Poisson homogêneo.md",
+    "08.Estatística e Métodos Numéricos/08.Conjunto de distribuições de probabilidade 5 (distribuição de Poisson).md",
+    "08.Estatística e Métodos Numéricos/07.Conjunto de distribuições de probabilidade 4 (distribuição binomial).md",
+    "08.Estatística e Métodos Numéricos/06.Conjunto de distribuições de probabilidade 3 (distribuição normal).md",
+    "08.Estatística e Métodos Numéricos/05.Conjunto de distribuições de probabilidade 2 (distribuição exponencial).md",
+    "08.Estatística e Métodos Numéricos/04.Conjunto de distribuições de probabilidade 1 (distribuição uniforme).md",
+    "08.Estatística e Métodos Numéricos/03.Lei da probabilidade total.md",
+    "08.Estatística e Métodos Numéricos/02.Fórmula de interpolação de diferenças divididas de Newton.md",
+    "08.Estatística e Métodos Numéricos/01.Média, variância e desvio padrão.md",
+    "07.Cálculo/08.Integrais indefinidas.md",
+    "08.Estatística e Métodos Numéricos",
+    "07.Cálculo/07.Funções inversas e composição de funções.md",
+    "07.Cálculo/06.Área de superfície e volume do prisma hexagonal.md",
+    "07.Cálculo/05.Funções unimodais e funções bimodais.md",
+    "07.Cálculo/04.Teorema do valor médio de Rolle.md",
+    "07.Cálculo/03.Teorema do valor médio de Lagrange.md",
+    "07.Cálculo/02.Teorema do valor médio de Cauchy.md",
+    "07.Cálculo/01.Limites, continuidade e diferenciabilidade.md",
+    "07.Cálculo",
+    "06.Linear Algebra/07.Algoritmo Doolittle - Decomposição LU.md",
+    "06.Linear Algebra/06.LU Decomposição de um sistema de equações lineares.md",
+    "06.Linear Algebra/05.Sistema de Equações Lineares.md",
+    "06.Linear Algebra",
+    "05.Graph Theory",
+    "04.Probability",
+    "03.Combinatorics",
+    "02.Teoria de conjuntos",
+    "01.Lógica Proposicional e de Primeira Ordem",
+    "00.Engineering Mathematics Tutorials",
+    "11.Git Advanced"
   ]
 }
