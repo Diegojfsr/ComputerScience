@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f31d399d5d701e26",
+        "id": "7648187b012de1e7",
         "type": "tabs",
         "children": [
           {
-            "id": "fada9517a02ffeda",
+            "id": "7445984c367bba6b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.DBMS Tutorial – Learn Database Management System/01.DBMS Tutorial – Learn Database Management System.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "01.DBMS Tutorial – Learn Database Management System"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00.DBMS Tutorial – Learn Database Management System/01.DBMS Tutorial – Learn Database Management System.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 01.DBMS Tutorial – Learn Database Management System"
             }
           },
           {
@@ -161,43 +166,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fada9517a02ffeda",
+  "active": "7445984c367bba6b",
   "lastOpenFiles": [
-    "5.Git and GitHub/1.Create a Repository on GitHub.md",
-    "Sem título.md",
-    "4.Git Commands/1.Useful Git Commands and Basic Concepts.md",
-    "4.Git Commands/67.How to Remove Local Untracked Files From Current Git Working Tree.md",
-    "4.Git Commands/66.How to Use Git Log to Format the Commit History.md",
-    "4.Git Commands/65.Git – Difference Between Merging and Rebasing.md",
-    "4.Git Commands/64.Difference Between Git remote prune, Git prune, on and Git fetch –prune.md",
-    "4.Git Commands/63.Difference Between Git Push Origin and Git Push Origin Master.md",
-    "4.Git Commands/62.How to Add an Empty Directory to a Git Repository.md",
-    "4.Git Commands/61.How to Push Git Branch to Remote.md",
-    "4.Git Commands/60.Delete a Git Branch Locally and Remotely.md",
-    "4.Git Commands/59.Error Searching and Handling in Git.md",
-    "4.Git Commands/58.Sync your fork with a master in GitHub.md",
-    "4.Git Commands/57.Shallow Clone on Git Linux.md",
-    "4.Git Commands/56.Git - Changing History.md",
-    "4.Git Commands/55.Git – Working Tree.md",
-    "4.Git Commands/54.Git – git-show Command Line Utility.md",
-    "4.Git Commands/53.Git - Cherry Pick.md",
-    "4.Git Commands/52.Git – Filtering the Commit History.md",
-    "4.Git Commands/51.Git Subtree.md",
-    "4.Git Commands/50.Git Hooks.md",
-    "4.Git Commands/49.Git Tags.md",
-    "4.Git Commands/48.Recovering Lost Commits in Git.md",
-    "4.Git Commands/47.Git Merge and Merge Conflicts.md",
-    "4.Git Commands/46.Git Checkout and Merge.md",
-    "4.Git Commands/45.Git Prune.md",
-    "11.Git Advanced",
-    "10.Git Collaborating",
-    "9.Git and GitHub Deployment",
-    "8.Git and GitHub in Pycharm",
-    "7.Git and GitHub in Android Studio",
-    "6.Git and GitHub in VS Code",
-    "5.Git and GitHub",
-    "4.Git Commands",
-    "3.Git Installation",
-    "2.Git Basics"
+    "11.Tópicos Diversos/05.Incompatibilidade de impedância.md",
+    "11.Tópicos Diversos/04.Objetos de banco de dados.md",
+    "11.Tópicos Diversos/03.Abstração de dados e independência de dados.md",
+    "11.Tópicos Diversos/02.Categorias de usuários do DBMS.md",
+    "11.Tópicos Diversos/01.DBMS Interfaces.md",
+    "11.Tópicos Diversos",
+    "10.Data Warehouse and Data Mining/16.Diferença entre Hive e HBase.md",
+    "10.Data Warehouse and Data Mining/15.Apache Hive.md",
+    "10.Data Warehouse and Data Mining/14.Arquitetura e funcionamento do Hive.md",
+    "10.Data Warehouse and Data Mining/13.Apache HBase.md",
+    "10.Data Warehouse and Data Mining/12.Arquitetura do HBase.md",
+    "10.Data Warehouse and Data Mining/11.Data Marts.md",
+    "10.Data Warehouse and Data Mining/10.Mineração de Dados - Fontes de dados que podem ser extraídas.md",
+    "10.Data Warehouse and Data Mining/09.Mineração de Dados - Processo KDD.md",
+    "10.Data Warehouse and Data Mining/08.Mineração de dados.md",
+    "10.Data Warehouse and Data Mining/07.Dificuldades de implementação de data warehouses.md",
+    "10.Data Warehouse and Data Mining/06.Características e funções do data warehouse.md",
+    "10.Data Warehouse and Data Mining/05.Arquitetura de data warehouse.md",
+    "10.Data Warehouse and Data Mining/04.Armazenamento de dados.md",
+    "10.Data Warehouse and Data Mining/03.Modelagem de dados dimensionais.md",
+    "10.Data Warehouse and Data Mining/02.Modelagem de Data Warehouse - Esquema do floco de neve.md",
+    "10.Data Warehouse and Data Mining/01.Esquema em estrela na modelagem do Data Warehouse.md",
+    "10.Data Warehouse and Data Mining",
+    "09.Tópicos avançados/20.Recuperação de informações da Web - Modelo de espaço vetorial.md",
+    "09.Tópicos avançados/19.Diferença entre dados estruturados, semiestruturados e não estruturados.md",
+    "09.Tópicos avançados/18.Trabalhos futuros em Sistema de Informação Geográfica.md",
+    "09.Tópicos avançados/17.Problemas de gerenciamento de dados no banco de dados móvel.md",
+    "09.Tópicos avançados/16.Características dos Dados Biológicos (Gerenciamento de Dados do Genoma).md",
+    "09.Tópicos avançados",
+    "08.Organização de arquivos",
+    "07.Indexação, B and B+ trees",
+    "06.Controle de transações e simultaneidade",
+    "05.Álgebra Relacional e Cálculo",
+    "04.Normalização",
+    "03.Modelo relacional e dependências funcionais",
+    "02.Modelo de Relacionamento de Entidade"
   ]
 }
