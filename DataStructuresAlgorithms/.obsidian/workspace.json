@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6564cc97b9ccd081",
+        "id": "ecba56d4fd29cff7",
         "type": "tabs",
         "children": [
           {
-            "id": "b5d4abe2b243959c",
+            "id": "bf795fd4013c2731",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Tutorial DSA - Aprenda Estruturas de Dados e Algoritmos/01.Tutorial DSA - Aprenda Estruturas de Dados e Algoritmos.md",
+                "file": "01.Construção Lógica/00.Logic Building Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.Tutorial DSA - Aprenda Estruturas de Dados e Algoritmos"
+              "title": "00.Logic Building Guide"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 424.5
   },
   "right": {
     "id": "1b77f82fc4207f64",
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Tutorial DSA - Aprenda Estruturas de Dados e Algoritmos/01.Tutorial DSA - Aprenda Estruturas de Dados e Algoritmos.md",
+                "file": "01.Construção Lógica/00.Logic Building Guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 01.Tutorial DSA - Aprenda Estruturas de Dados e Algoritmos"
+              "title": "Sumário de 00.Logic Building Guide"
             }
           },
           {
@@ -166,41 +166,41 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b5d4abe2b243959c",
+  "active": "1b02efb55613b8a3",
   "lastOpenFiles": [
-    "23.Estrutura de dados e algoritmos avançados/05.Pratique estruturas de dados avançadas.md",
-    "23.Estrutura de dados e algoritmos avançados/04.Árvore indexada binária.md",
-    "23.Estrutura de dados e algoritmos avançados/03.Árvore Vermelho-Preta.md",
-    "23.Estrutura de dados e algoritmos avançados/02.Árvore de segmentos.md",
-    "23.Estrutura de dados e algoritmos avançados/01.Tentativa.md",
-    "22.Outros algoritmos/09.Pratique Algoritmos geométricos.md",
+    "01.Construção Lógica/76.Problema de Josefo.md",
+    "01.Construção Lógica/75.Função Totiente de Euler.md",
+    "01.Construção Lógica/74.Programa para encontrar o determinante de uma matriz.md",
+    "01.Construção Lógica/73.Problema de quebra-cabeça.md",
+    "01.Construção Lógica/72.Rato e problema de garrafa envenenada.md",
+    "01.Construção Lógica/71.Programa para Algoritmo da Torre de Hanói.md",
+    "01.Construção Lógica/50.Calcule o ângulo entre o ponteiro das horas e o ponteiro dos minutos.md",
+    "01.Construção Lógica/49.Peneira de Eratóstenes.md",
+    "01.Construção Lógica/48.Próxima Permutação.md",
+    "01.Construção Lógica/47.Conjunto potência.md",
+    "01.Construção Lógica/46.Coeficiente Binomial.md",
+    "01.Construção Lógica/45.Programa para o enésimo número catalão.md",
+    "01.Construção Lógica/44.Exponenciação Modular (Potência em Aritmética Modular).md",
+    "01.Construção Lógica/43.Encontre o maior fator primo de um número.md",
+    "01.Construção Lógica/40.Programa para imprimir o triângulo de Pascal.md",
+    "01.Construção Lógica/42.Programa Prime Factor.md",
+    "01.Construção Lógica/41.Encontre todos os fatores de um número natural.md",
+    "01.Construção Lógica/39.Programa para calcular o valor de nCr.md",
+    "01.Construção Lógica/38.Programa para calcular o valor de nPr.md",
+    "01.Construção Lógica/37.Localizar sequência recorrente em uma fração.md",
+    "01.Construção Lógica/36.Fração para Decimal Recorrente.md",
+    "01.Construção Lógica/35.K-ésimo dígito em 'a' elevado à potência 'b'.md",
+    "01.Construção Lógica/34.Verifique se um número grande é divisível por 13 ou não.md",
+    "01.Construção Lógica/33.Verifique se um número grande é divisível por 11 ou não.md",
+    "01.Construção Lógica/32.Verifique se um número grande é divisível por 4 ou não.md",
+    "01.Construção Lógica/31.Encontre números de 1 a n com exatamente 3 divisores.md",
     "23.Estrutura de dados e algoritmos avançados",
-    "22.Outros algoritmos/08.Algoritmos geométricos.md",
-    "22.Outros algoritmos/07.Algoritmo de ramificação e limite.md",
-    "22.Outros algoritmos/06.Quiz de Dividir e conquistar.md",
-    "22.Outros algoritmos/05.Guia de Dividir e conquistar.md",
-    "22.Outros algoritmos/04.Quiz de Algoritmo de retrocesso.md",
-    "22.Outros algoritmos/03.Guia de Algoritmo de retrocesso.md",
-    "22.Outros algoritmos/02.Quiz de algoritmos bit a bit.md",
-    "22.Outros algoritmos/01.Guia de algoritmos bit a bit.md",
     "22.Outros algoritmos",
-    "21.Programação Dinâmica/02.Quiz sobre Programação Dinâmica.md",
-    "21.Programação Dinâmica/01.Guia de Programação Dinâmica.md",
-    "20.Algoritmo ganancioso/02.Quiz sobre ganancioso.md",
     "21.Programação Dinâmica",
-    "20.Algoritmo ganancioso/01.Guia de algoritmos gananciosos.md",
-    "19.Grafo/02.Quiz sobre Grafo.md",
     "20.Algoritmo ganancioso",
-    "19.Grafo/01.Guia de Grafo.md",
-    "18.Heap/02.Quiz sobre heap.md",
     "19.Grafo",
-    "18.Heap/01.Guia de heap.md",
-    "17.Árvore/02.Quiz na árvore.md",
     "18.Heap",
-    "17.Árvore/01.Guia de estrutura de dados de árvore.md",
-    "16.Deque/02.Quiz sobre Deque.md",
     "17.Árvore",
-    "16.Deque/01.Guia Deque.md",
     "16.Deque",
     "15.Fila",
     "14.Pilha"
