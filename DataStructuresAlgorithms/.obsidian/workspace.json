@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ecba56d4fd29cff7",
+        "id": "d24eb9416936135b",
         "type": "tabs",
         "children": [
           {
-            "id": "bf795fd4013c2731",
+            "id": "ee5109a835b50935",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,14 +166,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1b02efb55613b8a3",
+  "active": "ee5109a835b50935",
   "lastOpenFiles": [
-    "01.Construção Lógica/76.Problema de Josefo.md",
-    "01.Construção Lógica/75.Função Totiente de Euler.md",
-    "01.Construção Lógica/74.Programa para encontrar o determinante de uma matriz.md",
-    "01.Construção Lógica/73.Problema de quebra-cabeça.md",
-    "01.Construção Lógica/72.Rato e problema de garrafa envenenada.md",
-    "01.Construção Lógica/71.Programa para Algoritmo da Torre de Hanói.md",
+    "01.Construção Lógica/57.Quiz on Logic Building.md",
+    "01.Construção Lógica/56.Problema de Josefo.md",
+    "01.Construção Lógica/55.Função Totiente de Euler.md",
+    "01.Construção Lógica/54.Programa para encontrar o determinante de uma matriz.md",
+    "01.Construção Lógica/53.Problema de quebra-cabeça.md",
+    "01.Construção Lógica/52.Rato e problema de garrafa envenenada.md",
+    "01.Construção Lógica/51.Programa para Algoritmo da Torre de Hanói.md",
+    "01.Construção Lógica/00.Logic Building Guide.md",
     "01.Construção Lógica/50.Calcule o ângulo entre o ponteiro das horas e o ponteiro dos minutos.md",
     "01.Construção Lógica/49.Peneira de Eratóstenes.md",
     "01.Construção Lógica/48.Próxima Permutação.md",
@@ -192,8 +194,6 @@
     "01.Construção Lógica/35.K-ésimo dígito em 'a' elevado à potência 'b'.md",
     "01.Construção Lógica/34.Verifique se um número grande é divisível por 13 ou não.md",
     "01.Construção Lógica/33.Verifique se um número grande é divisível por 11 ou não.md",
-    "01.Construção Lógica/32.Verifique se um número grande é divisível por 4 ou não.md",
-    "01.Construção Lógica/31.Encontre números de 1 a n com exatamente 3 divisores.md",
     "23.Estrutura de dados e algoritmos avançados",
     "22.Outros algoritmos",
     "21.Programação Dinâmica",
