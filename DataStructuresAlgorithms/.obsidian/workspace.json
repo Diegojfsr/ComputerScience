@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Guia de Análise de Complexidade/01. Por que a Análise de Algoritmo é importante.md",
+                "file": "02.Guia de Análise de Complexidade/00.Guia de Análise de Complexidade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Por que a Análise de Algoritmo é importante"
+              "title": "00.Guia de Análise de Complexidade"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Guia de Análise de Complexidade/01. Por que a Análise de Algoritmo é importante.md",
+                "file": "02.Guia de Análise de Complexidade/00.Guia de Análise de Complexidade.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 01. Por que a Análise de Algoritmo é importante"
+              "title": "Sumário de 00.Guia de Análise de Complexidade"
             }
           },
           {
@@ -168,6 +168,7 @@
   },
   "active": "bc78e76e2e4a9a3c",
   "lastOpenFiles": [
+    "02.Guia de Análise de Complexidade/01. Por que a Análise de Algoritmo é importante.md",
     "02.Guia de Análise de Complexidade/08.Entendendo a complexidade do tempo com exemplos simples.md",
     "02.Guia de Análise de Complexidade/23.Quiz sobre análise de complexidade para DSA.md",
     "02.Guia de Análise de Complexidade/04.Análise de Pior, Média e Melhor Caso de Algoritmos.md",
@@ -190,7 +191,6 @@
     "02.Guia de Análise de Complexidade/05.Tutorial de notação Big O - Um guia para análise de Big O.md",
     "02.Guia de Análise de Complexidade/03.Análise Assintótica.md",
     "02.Guia de Análise de Complexidade/02.Ordem de crescimento.md",
-    "02.Guia de Análise de Complexidade/01. Por que a Análise de Algoritmo é importante.md",
     "02.Guia de Análise de Complexidade/00.Guia de Análise de Complexidade.md",
     "01.Construção Lógica/00.Logic Building Guide.md",
     "01.Construção Lógica/57.Quiz on Logic Building.md",
